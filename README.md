@@ -1,4 +1,3 @@
-Title
 AWS-TERRAFORM: Learn Infrastructure as Code with AWS
 
 Description
